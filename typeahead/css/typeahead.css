@@ -248,3 +248,8 @@ textarea.input-group.input-group-lg .twitter-typeahead .tt-query,textarea.input-
 .tt-dropdown-menu .tt-suggestion p {
 	margin: 0;
 }
+
+.input-group .form-control {
+	margin-bottom: -4px;
+	width: 100%;
+}
