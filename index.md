@@ -1,8 +1,7 @@
 ---
+title: UKWA
+layout: default
 ---
-
-UKWA
-====
 
 UK Web Archive GitHub Homepage
 
